@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+домашня
+</title>
+</head>
+<body>
+<table border="1"bgcolor=palegreen>
+<tr>
+<td rowspan="2>
+<p align=center>прізвище ім'я по батькові</p>
+</td>
+</tr>
+<tr>
+<p align=center>математика</td>
+<p align=center>інформатика</td>
+<p align=center>фізика</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>
+
