@@ -1,0 +1,76 @@
+<html>
+<head>
+<meta charset="utf-9">
+<tatle> Мої улюблені виконавці </title>
+</head>
+<body>
+<table border=1>
+  <caption> Сучасна українська музика </caption>
+  <tr>
+      <td> Святослав Вакарчук </td>
+      <body background="bgimage.jpg">
+<h1>Vakarchuk</h1> <p>
+<a href="http://www.vacarchuk.com">
+Vakarchuk</a></p>
+</body>
+      <object width="700" height="128“
+data="data=“1.mp3"
+type="audio/mp3”></object>
+      <td> bordercolor="blue" </td>
+      <td> Кузьма "Скрябін" </td>
+      <td> Кузьма Скрябін </td>
+      <body background="bgimage.jpg">
+<h1>Kuzma</h1> <p>
+<a href="http://www.kuzma.com">
+Kuzma</a></p>
+</body>
+       <td> Святослав Вакарчук </td>
+      <body background="bgimage.jpg">
+<h1>Vakarchuk</h1> <p>
+<a href="http://www.vacarchuk.com">
+Vakarchuk</a></p>
+</body>
+      <object width="700" height="128“
+data="data=“2.mp3"
+type="audio/mp3”></object>
+  </tr>
+  <tr>
+      <td> bordercolor="blue" </td>
+      <td> "Шпилясті кобзарі" </td>
+       <td> Шпилясті кобзарі </td>
+      <body background="bgimage.jpg">
+<h1>Shpylyasti</h1> <p>
+<a href="http://www.shypylyasti.com">
+Shypylyasti</a></p>
+</body>
+      <object width="700" height="128“
+data="data=“3.mp3"
+type="audio/mp3”></object>
+      <td> bordercolor="blue" </td>
+  </tr>
+  <tr>
+      <td> Оксана Муха </td>
+       <td>Оксана Муха </td>
+      <body background="bgimage.jpg">
+<h1>mukha</h1> <p>
+<a href="http://www.mukha.com">
+Mukha</a></p>
+</body>
+      <object width="700" height="128“
+data="data="4.mp3"
+type="audio/mp3”></object>
+      <td> bordercolor="blue" </td>
+      <td> "Казка" </td>
+       <td> Казка </td>
+      <body background="bgimage.jpg">
+<h1>Kazka</h1> <p>
+<a href="http://www.kazka.com">
+kazka</a></p>
+</body>
+      <object width="700" height="128“
+data="data=“5.mp3"
+type="audio/mp3”></object>
+   </tr>
+</table>
+</body>
+</html>
