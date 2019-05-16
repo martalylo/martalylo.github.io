@@ -1,0 +1,43 @@
+<html>
+<body background="1.jpg">
+  <head>
+  <title>
+    Будинок мрії
+  </title>
+  <object width="700" height="128“
+data="data=“123.mp3"
+type="audio/mp3”></object>
+  <style>
+    div{font-family:Georgia;}
+    .header{font-size:45px; text-align:center; color:blue; padding:7%;}
+    .menu{background-color:yellow; color:white; position:absolute; top:250px; width:100%;}
+    .content1{background-color:red; position:absolute; top:348px; height:150px; width:100%;}
+    .content2{background-color:green; position:absolute; bottom:0px; top:498px; width:100%;}
+    img{width:200px; height:196px; position:absolute; top:25px; right:50px;}
+    div.menu>div{float:left; margin:2% 6%; front-size:x-large;}
+    div a:hover{background-color:red;}
+    div a:active{background-color:blue;}
+    div a:link{background-color:white;}
+    div a:visited{background-color:blue;}
+</style>
+</head>
+<body>
+  <div>
+    <div class="header">Будинок мрії</div>
+    <div><img src="2.jpg" alt="Логотип"></div>  
+  </div>
+  <div class="menu">
+    <div><a href="index1/Holovna.html">Головна</a></div>
+    <div><a href="index1/Pronas.html">Про нас</a></div>
+    <div><a href="index1/Proekty.html">Проекти</a></div>
+    <div><a href="index1/Foto.html">Фотоальбом</a></div>
+    <div><a href="index1/Kontacts.html">Контакти</a></div>
+</div>
+  <div>
+    <div class="content1"></div>
+    <div class="content2"></div>
+</div>
+</body>
+</html>
+</body>
+</html>
